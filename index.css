@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 400px;
+    margin: 0px auto;;
+    background-color: #76CB30;
+    border-bottom: 10px solid #D83A4D;
+}
+
+/* .utility {
+    border: 1px dotted blue;
+} */
+
+.text {
+    text-align: center;
+    color: blcak;
+}
